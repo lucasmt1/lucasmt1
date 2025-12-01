@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lucasmt1/lucasmt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Lucas Miranda, desenvolvedor júnior focado em Java e backend.
+Gosto de criar projetos simples que me ajudam a aprender mais sobre código, lógica e boas práticas.
 
-Here are some ideas to get you started:
+Quando uma ideia aparece, normalmente tento transformar em algo real — nem que seja um protótipo rápido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com **Java, Spring Boot, SQL, PostgresSQL, Git e Github**.
+
+No momento, estudo Análise e Desenvolvimento de Sistemas e trabalho em projetos pessoais para fortalecer minha base e ganhar experiência prática.
+
+### 📫 Como falar comigo
+**Email:** lmirandabandeira@gmail.com 
+**LinkedIn:** www.linkedin.com/in/lucas-miranda-025590260
+
+

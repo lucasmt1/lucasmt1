@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou o Lucas Miranda, desenvolvedor júnior em backend.
+Sou Lucas Miranda, desenvolvedor júnior em backend.
 Gosto de criar projetos simples que me ajudam a aprender mais sobre código, lógica e boas práticas.
 
 Quando uma ideia aparece, normalmente tento transformar em algo real — nem que seja um protótipo rápido.

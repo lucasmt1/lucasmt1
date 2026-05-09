@@ -18,20 +18,8 @@
         <br><span style="color: white;">PostgreSQL</span>
       </td>
       <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
-        <br><span style="color: white;">MySQL</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br><span style="color: white;">Docker</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-        <br><span style="color: white;">Git</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
-        <br><span style="color: white;">GitHub</span>
       </td>
     </tr>
   </table>
@@ -73,5 +61,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-
-

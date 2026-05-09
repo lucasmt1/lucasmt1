@@ -1,48 +1,57 @@
-# Olá, eu sou o Lucas Miranda 👋
+<h1 align="center">Olá, eu sou o Lucas Miranda 👋</h1>
 
-Desenvolvedor Back-End com foco em Java e Spring Boot, sempre buscando evoluir, aprender coisas novas e construir soluções que façam sentido na prática.
+###
 
----
+<h3 align="center">👨‍💻 Sobre mim</h3>
 
-## 🌐 Contato
+###
 
 <p align="left">
+Desenvolvedor Back-End com foco em Java e Spring Boot, sempre buscando evoluir, aprender coisas novas e construir soluções que façam sentido na prática.<br><br>
+- 🔭 Atualmente trabalhando como freelancer em projetos Java Back-End<br>
+- 📚 Estudando Kubernetes e aprofundando conhecimentos em arquitetura de software<br>
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-miranda-025590260/">
-    <img src="https://img.shields.io/badge/LinkedIn-LUCAS%20MIRANDA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:lmirandabandeira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-LMIRANDABANDEIRA-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-</p>
+</div>
 
----
+###
 
-## 🛠️ Tecnologias
+<h3 align="left">🔥 Minhas estatísticas</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasmt1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/lucasmt1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmt1&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lucasmt1&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Lucas Miranda github-readme-stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lucasmt1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmt1&bg_color=0d1117&color=3996CD&line=3996CD&point=3996CD&area=true&area_color=3996CD&hide_border=true&custom_title=Graph" alt="Contribution Graph" />
-  </a>
-</p>
+###

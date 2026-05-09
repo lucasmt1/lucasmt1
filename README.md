@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/lucas-miranda-025590260/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3996CD" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="mailto:lucasmt1@gmail.com" target="_blank">
+  <a href="mailto:lmirandabandeira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3996CD" alt="Gmail" />
   </a>
 </p>

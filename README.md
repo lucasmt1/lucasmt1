@@ -9,7 +9,7 @@
 <p align="left">
 Desenvolvedor Back-End com foco em Java e Spring Boot, sempre buscando evoluir, aprender coisas novas e construir soluções que façam sentido na prática.<br><br>
 - 🔭 Atualmente trabalhando como freelancer em projetos Java Back-End<br>
-- 📚 Estudando Kubernetes e aprofundando conhecimentos em arquitetura de software<br>
+- 📚 Estudando e aprofundando conhecimentos em arquitetura de software<br>
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 </p>
 
